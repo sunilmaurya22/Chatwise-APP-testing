@@ -1,0 +1,55 @@
+Name	Sunil responce		Device Used - Redmi Power10	
+Total Fails Spotted	2			
+Sr. No	Screen	Test Scenarios	Result	Reasons
+				
+1	Signup / Login	1. Login flow with OTP existing user	Pass	
+		2. Signup flow with OTP new user	Pass	
+		3. Resend OTP	Pass	
+		4. Onboarding	Pass	
+				
+2	FriendZone (Create post)	1. Using camera clicked image	Pass	
+		2. Using device gallery Image	Pass	
+		3. Pivacy of post	Pass	
+		4. Tag user	Fail	Friend not found
+		5. Add location to post	Pass	
+		6. Create post with video	Pass	
+		7. Check sharing a picture from another app (say WhatsApp) to ChatWise from app drawer	Pass	
+		8. 3 Dot option	Pass	
+		9. View post details and try actions (like,comment, share)	Pass	
+		10.Select and remove like emojis	Pass	
+		11.Scroll down and up the Page	Pass	
+				
+3	Add friend / Accept,Reject / Other users profile	1. Search user from add friend screen and send request	Pass	
+		2. Accept/Reject received friend request	Pass	
+		3. View other users profile	Pass	
+		4. View other users friends and add friends	Pass	
+		5. Send message to friends profile	pass	
+		6. Forward any image or video in from the messages screen to other user in friend list	Pass	
+		7. Unfriend any user from search listing	Pass	
+		8. Unfriend any user from the profile screen	Pass	
+		9. View different tabs in other user profile	Pass	
+		10. QR code functionality	Pass	
+				
+4	Chat	1. Group chat/one to one chat ( images, video ,link share : link preivew)	Fail	Not created Group
+		2. Reply over any message	Pass	
+		3. Chat listing	Pass	
+		4. Audio/Video call any user from chat	Pass	
+		5. Call list	Pass	
+				
+5	Settings	1. Theme	Pass	Light and dark
+		2. language	Pass	options applied
+		3. Unblock user	Pass	
+		4. Add Friends list screen	Pass	
+		5. Following list (Own and others)	Pass	
+		6. Setting >> chat >> chat background >> reset to default	Pass	but default conformation option of is not present
+				
+				
+6	Logout	1. Logout account	Pass	
+				
+7	Shorts	1.Audio mute/Unmute	Pass	
+		2.Like/Comment /Share	Pass	
+				
+8	Tokens	1.Share via whatsapp/Line /facebook? Qr code	Pass	
+				
+				
+				
